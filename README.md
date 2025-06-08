@@ -1,4 +1,3 @@
-:star2:  
 # 👋 Hey, I'm Sai Shreya Kumar
 👩‍💻 Data Scientist @ K1X | 🎓 MCS @ UIUC | ⚙️ Building GenAI and ML Systems  
 
