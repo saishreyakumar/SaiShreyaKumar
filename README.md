@@ -9,7 +9,7 @@
 ## 👋 Hi there! Welcome to My GitHub Profile
 
 ### 👩‍💼 About Me
-I'm a Software Developer and Data Scientist passionate about building scalable AI systems, efficient backend services, and intelligent document processing pipelines. I thrive at the intersection of machine learning and real-world problem-solving.
+I am a Software Developer and Data Scientist passionate about building scalable AI systems, efficient backend services, and intelligent document processing pipelines. I thrive at the intersection of machine learning and real-world problem-solving.
 
 Currently, I'm diving into:
 - Generative AI applications for document understanding 🤖📄
